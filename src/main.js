@@ -5,3 +5,4 @@ if (true) {
 }
 
 const var1 = '';
+let var2 = '';
