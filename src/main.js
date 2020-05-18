@@ -1,6 +1,8 @@
 "use strict";
 
-if (true) console.log('1');
+if (true) { 
+  console.log('1');
+}
 
 var test_var = '';
 
