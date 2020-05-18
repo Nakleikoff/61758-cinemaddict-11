@@ -1,8 +1,5 @@
-"use strict";
+const var1 = '1';
 
-if (true) { 
-  console.log('1');
+if (var1 === 1) { 
+  return true;
 }
-
-const var1 = '';
-let var2 = '';
