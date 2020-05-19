@@ -2,6 +2,6 @@ const elements = [];
 
 let counter = 0;
 
-for (let i of elements) {
-  counter++;
+for (const i of elements) {
+  counter = counter + i;
 }
