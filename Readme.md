@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алексей Е.](https://up.htmlacademy.ru/ecmascript/11/user/61758).
-* Наставник: `1`.
+* Наставник: `12`.
 
 ---
 
