@@ -1,6 +1,6 @@
 const elements = [];
 
-const test;
+let test;
 
 let counter = 2;
 
